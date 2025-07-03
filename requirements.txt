@@ -1,0 +1,7 @@
+jupyter
+ollama
+sentence_transformers
+umap-learn
+scikit-learn
+plotly
+pandas
